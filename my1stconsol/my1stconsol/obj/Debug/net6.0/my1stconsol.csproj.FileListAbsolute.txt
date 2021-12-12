@@ -1,0 +1,15 @@
+D:\Dotnet\12.12.21\my1stconsol\my1stconsol\bin\Debug\net6.0\my1stconsol.exe
+D:\Dotnet\12.12.21\my1stconsol\my1stconsol\bin\Debug\net6.0\my1stconsol.deps.json
+D:\Dotnet\12.12.21\my1stconsol\my1stconsol\bin\Debug\net6.0\my1stconsol.runtimeconfig.json
+D:\Dotnet\12.12.21\my1stconsol\my1stconsol\bin\Debug\net6.0\my1stconsol.dll
+D:\Dotnet\12.12.21\my1stconsol\my1stconsol\bin\Debug\net6.0\ref\my1stconsol.dll
+D:\Dotnet\12.12.21\my1stconsol\my1stconsol\bin\Debug\net6.0\my1stconsol.pdb
+D:\Dotnet\12.12.21\my1stconsol\my1stconsol\obj\Debug\net6.0\my1stconsol.csproj.AssemblyReference.cache
+D:\Dotnet\12.12.21\my1stconsol\my1stconsol\obj\Debug\net6.0\my1stconsol.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\12.12.21\my1stconsol\my1stconsol\obj\Debug\net6.0\my1stconsol.AssemblyInfoInputs.cache
+D:\Dotnet\12.12.21\my1stconsol\my1stconsol\obj\Debug\net6.0\my1stconsol.AssemblyInfo.cs
+D:\Dotnet\12.12.21\my1stconsol\my1stconsol\obj\Debug\net6.0\my1stconsol.csproj.CoreCompileInputs.cache
+D:\Dotnet\12.12.21\my1stconsol\my1stconsol\obj\Debug\net6.0\my1stconsol.dll
+D:\Dotnet\12.12.21\my1stconsol\my1stconsol\obj\Debug\net6.0\ref\my1stconsol.dll
+D:\Dotnet\12.12.21\my1stconsol\my1stconsol\obj\Debug\net6.0\my1stconsol.pdb
+D:\Dotnet\12.12.21\my1stconsol\my1stconsol\obj\Debug\net6.0\my1stconsol.genruntimeconfig.cache
